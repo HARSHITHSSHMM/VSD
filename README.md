@@ -13,6 +13,8 @@ Instructor: KUNAL GHOSH
 ![pic_1](https://github.com/user-attachments/assets/c89256d2-147c-49ad-9f4b-ba211215fa10)<br/>
 <br/>
 -> The program is as shown in the above image.<br/>
-
+-> Now, to check the output, run the commands :<br/>
+&ensp;&ensp; gcc sum.c<br/>
+&ensp;&ensp; ./a.out
 
 
