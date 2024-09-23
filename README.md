@@ -29,7 +29,7 @@ Instructor: KUNAL GHOSH
 * write the command:<br/>
 &nbsp;"riscv64-unknown-elf-gcc -o1 -mabi=lp64 -march=rv64i -o -sum.o -sum.c"<br/>
 <br/>
-![pic3](https://github.com/user-attachments/assets/922bb9ff-274f-4d75-abbf-ff5107326c98)
+![pic3](https://github.com/user-attachments/assets/922bb9ff-274f-4d75-abbf-ff5107326c98)<br/>
 <br/>
 * Open new tab in terminal and enter the command 
 
