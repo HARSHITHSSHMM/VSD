@@ -73,8 +73,12 @@ Instructor: KUNAL GHOSH
 ### -o1:
 * it greatly increase compilation time but optimizes the generated code by reducig its size.
 * Other options are =><br/>
--> o0 : no optimization.<br/>
--> o2 : More optimization than o1.
+-> o0    : no optimization.<br/>
+-> o2    : More optimization than o1.<br/>
+-> o3    : More optimization than o1.<br/>
+-> os    : enables all o2 optimizationsthat do not typically increase code size.<br/>
+-> ofast : optimiztion flag used to instruct compiler to optimize generated code for maximum speed.<br/>
+  _________________________________________________xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_______________________________________________
 
 
 
