@@ -9,11 +9,9 @@ Instructor: KUNAL GHOSH
 -> First,make sure you are in the home directory<br/>
 -> Open the terminal and enter the command:<br/>
 <html>
-  <body>
-    <p>
-      gedit sum.c
-    </p>
-  </body>
+<body>
+<p> gedit sum.c </p>
+</body>
 </html>
 ( We can enter any file name )
 
