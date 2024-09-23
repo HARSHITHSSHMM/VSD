@@ -41,9 +41,31 @@ Instructor: KUNAL GHOSH
 -> We can see that there are 41 instructions.<br/>
 
 # Keywords used:
+### gedit:
+* Text Editor (gedit) is the default GUI text editor in the Ubuntu operating system.<br/>
+* It is UTF-8 compatible and supports most standard text editor features as well as many advanced features.<br/>
+### gcc: 
+* GCC stands for “GNU Compiler Collection”.
+* GCC is an integrated distribution of compilers for several major programming languages.
+* These languages currently include C, C++, Objective-C, Objective-C++, Fortran, Ada, D, and Go.
+
+### cat:
+* The cat (concatenate) command in Linux displays file contents.
+* It reads one or multiple files and prints their content to the terminal.
+* cat is used to view file contents, combine files, and create new files.
+
+### riscv64-unknown-elf-gcc:
+* "riscv64-unknown-elf-gcc" is a cross compiler that target the bare-metal.
+* It does not need the operating system.
+* This is suitable when you are developing a software and want to run directly on hardware without OS.
+* It uses "newlib", a C library designed for embedded systems
+
 ### mabi=lp64:
-* This is to specify that the ABI(Application Binary Interface) we use is lp64(64-bit long,pointer integer).<br/>
+* This is to specify that the ABI (Application Binary Interface) we use is lp64 (64-bit long,pointer integer).<br/>
 * Used for 64-bit RISCV architecture.
+
+### march=rv64i:
+* This specifies that weare using 64-bit RISCV base integer instruction set
 
 
 
