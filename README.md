@@ -1,4 +1,4 @@
-# VSDSquadron Mini Research Internship Program Status - 20th September Cohort
+# VSDSquadron Mini Research Internship Program - 20th September Cohort
 Instructor: KUNAL GHOSH
 
 # Task-1:
