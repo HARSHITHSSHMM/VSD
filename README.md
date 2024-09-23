@@ -30,7 +30,7 @@ Instructor: KUNAL GHOSH
 &nbsp;" riscv64-unknown-elf-gcc -o1 -mabi=lp64 -march=rv64i -o -sum.o -sum.c "<br/><br/>
 ![pic3](https://github.com/user-attachments/assets/4d8455a4-70fd-4f22-adfe-ba47102309d5)<br/><br/>
 * Now run the command in new tab in the terminal:<br/>
-&nbsp; " riscv64-unknown-elf-objdump -d sum.o " <br/>
+&nbsp; " riscv64-unknown-elf-objdump -d sum.o " <br/><br/><br/>
 -> It shows the Assembly language program of our C program.<br/> 
 -> To search for "main"  we have to first run the command:<br/>
 &nbsp; " riscv64-unknown-elf-objdump -d sum.o | less "<br/>
@@ -39,10 +39,11 @@ Instructor: KUNAL GHOSH
 -> Now, we can see the Assembly code for main function.<br/><br/>
 ![pic5](https://github.com/user-attachments/assets/17f99a1f-d1cb-4b54-9411-d124704ae57f)<br/><br/>
 -> We can see that there are 41 instructions.<br/>
--> now, we will be using -ofast in the place of -o1.<br/>
-&nbsp;" riscv64-unknown-elf-gcc -ofast -mabi=lp64 -march=rv64i -o -sum.o -sum.c "<br/><br/>
-![pic6](https://github.com/user-attachments/assets/b98b88ce-63d7-4392-af72-9c82ea161d7e)<br/><br/>
 
+# Keywords used:
+### mabi=lp64:
+* This is to specify that the ABI(Application Binary Interface) we use is lp64(64-bit long,pointer integer).<br/>
+* Used for 64-bit RISCV architecture.
 
 
 
