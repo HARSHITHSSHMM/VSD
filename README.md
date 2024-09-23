@@ -65,8 +65,16 @@ Instructor: KUNAL GHOSH
 * Used for 64-bit RISCV architecture.
 
 ### march=rv64i:
-* This specifies that weare using 64-bit RISCV base integer instruction set
+* This specifies that we are using 64-bit RISCV base integer instruction set.
 
+### objdump:
+* It can be used to disassemble RISCV binaries and helps in debugging.
+
+### -o1:
+* it greatly increase compilation time but optimizes the generated code by reducig its size.
+* Other options are =><br/>
+-> o0 : no optimization.<br/>
+-> o2 : More optimization than o1.
 
 
 
