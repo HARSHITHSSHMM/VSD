@@ -7,12 +7,7 @@ Instructor: KUNAL GHOSH
 * Compilers we use are GCC and riscv compiler.<br/>
 ### Using C programming:
 -> First,make sure you are in the home directory<br/>
--> Open the terminal and enter the command:<br/>
-<html>
-<body>
-<p> gedit sum.c </p>
-</body>
-</html>
+-> Open the terminal and enter the command:  &ensp;  " gedit sum.c " <br/>
 ( We can enter any file name )
 
 
