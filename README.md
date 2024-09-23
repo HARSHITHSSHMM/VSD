@@ -17,7 +17,7 @@ Instructor: KUNAL GHOSH
 &ensp;&ensp; gcc sum.c<br/>
 &ensp;&ensp; ./a.out<br/>
 <br/>
-<br/>
+![pic2](https://github.com/user-attachments/assets/65261cb9-e209-4626-8ee7-c092b13d9f61)<br/>
 <br/>
 -> It is as shown in the image.Just use ./a.out whenever we want to give input 
 
