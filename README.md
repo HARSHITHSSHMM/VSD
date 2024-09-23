@@ -27,7 +27,11 @@ Instructor: KUNAL GHOSH
 * It will display us the program  we have written earlier on the terminal.<br/>
 * To compile the program, we are going to use riscv64 gcc compiler.<br/>
 * write the command:<br/>
-&ensp; "riscv64-unknown-elf-gcc -o1 -mabi=lp64 -march=rv64i -o -sum.o -sum.c
+&nbsp;"riscv64-unknown-elf-gcc -o1 -mabi=lp64 -march=rv64i -o -sum.o -sum.c"<br/>
+<br/>
+![pic3](https://github.com/user-attachments/assets/922bb9ff-274f-4d75-abbf-ff5107326c98)
+<br/>
+* Open new tab in terminal and enter the command 
 
 
 
