@@ -21,6 +21,10 @@ Instructor: KUNAL GHOSH
 <br/>
 -> It is as shown in the image.Just use ./a.out whenever we want to give input 
 
+### RISCV based lab:
+* We are going to use the same program but with RISCV compiler instead of GCC compiler<br/>
+* We have to run the command: &nbsp;&nbsp; " cat sum.c"
+
 
 
 
