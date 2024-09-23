@@ -7,7 +7,7 @@ Instructor: KUNAL GHOSH
 * Compilers we use are GCC and riscv compiler.<br/>
 ### Using C programming:
 -> First,make sure you are in the home directory<br/>
--> Open the terminal and enter the command:  &ensp;  " gedit sum.c " <br/>
+-> Open the terminal and enter the command:  &ensp;  " gcc sum.c " <br/>
 &nbsp; &nbsp; ( We can enter any file name )<br/>
 <br/>
 ![pic_1](https://github.com/user-attachments/assets/c89256d2-147c-49ad-9f4b-ba211215fa10)<br/>
@@ -15,6 +15,12 @@ Instructor: KUNAL GHOSH
 -> The program is as shown in the above image.<br/>
 -> Now, to check the output, run the commands :<br/>
 &ensp;&ensp; gcc sum.c<br/>
-&ensp;&ensp; ./a.out
+&ensp;&ensp; ./a.out<br/>
+<br/>
+![pic2](https://github.com/user-attachments/assets/d7bcc8ad-fc1f-44a0-8956-53707135fc16)<br/>
+<br/>
+-> It is as shown in the image.Just use ./a.out whenever we want to give input 
+
+
 
 
