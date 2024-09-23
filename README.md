@@ -34,5 +34,17 @@ Instructor: KUNAL GHOSH
 -> It shows the Assembly language program of our C program.<br/> 
 -> To search for "main"  we have to first run the command:<br/>
 &nbsp; " riscv64-unknown-elf-objdump -d sum.o | less "<br/>
+-> To search for main, enter "/main" as shown in the image.<br/><br/>
+![pic4](https://github.com/user-attachments/assets/fb3f17b6-ee81-4322-b589-32e631f94faf)<br/><br/>
+-> Now, we can see the Assembly code for main function.<br/><br/>
+![pic5](https://github.com/user-attachments/assets/17f99a1f-d1cb-4b54-9411-d124704ae57f)<br/><br/>
+-> We can see that there are 41 instructions.<br/>
+-> now, we will be using -ofast in the place of -o1.<br/>
+&nbsp;" riscv64-unknown-elf-gcc -ofast -mabi=lp64 -march=rv64i -o -sum.o -sum.c "<br/><br/>
+![pic6](https://github.com/user-attachments/assets/b98b88ce-63d7-4392-af72-9c82ea161d7e)<br/><br/>
+
+
+
+
 
 
