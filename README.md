@@ -33,7 +33,7 @@ Instructor: KUNAL GHOSH
 &nbsp; " riscv64-unknown-elf-objdump -d sum.o " <br/><br/><br/>
 -> It shows the Assembly language program of our C program.<br/> 
 -> To search for "main"  we have to first run the command:<br/>
-&nbsp; " riscv64-unknown-elf-objdump -d sum.o | less "<br/>
+&nbsp; "riscv64-unknown-elf-objdump -d sum.o | less"<br/>
 -> To search for main, enter "/main" as shown in the image.<br/><br/>
 ![pic4](https://github.com/user-attachments/assets/fb3f17b6-ee81-4322-b589-32e631f94faf)<br/><br/>
 -> Now, we can see the Assembly code for main function.<br/><br/>
