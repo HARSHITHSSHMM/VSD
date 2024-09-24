@@ -23,7 +23,7 @@ Instructor: KUNAL GHOSH
 
 ### RISCV based lab:
 * We are going to use the same program but with RISCV GCC compiler.<br/>
-* We have to run the command: &nbsp;&nbsp; " cat sum.c".<br/>
+* We have to run the command: &nbsp;&nbsp; " cat sum.c ".<br/>
 * It will display us the program  we have written earlier on the terminal.<br/>
 * To compile the program, we are going to use riscv64 gcc compiler.<br/>
 * write the command:<br/>
