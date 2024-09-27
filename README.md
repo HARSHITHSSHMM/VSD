@@ -80,7 +80,10 @@ Instructor: KUNAL GHOSH
 -> ofast : optimiztion flag used to instruct compiler to optimize generated code for maximum speed.<br/><br/>
 # Task-2:
 * Our second task is to perform "SPIKE" simulation and Debugging.<br/>
-* Spike is used as simulator for RISC-V ISA.It is free open-source C++ Simulator.<br/>
+* Spike is used as simulator for RISC-V ISA.It is a free open-source C++ Simulator.<br/>
+* In this task we are going to show that gcc compiler and riscv compiler.<br/>
+* To compile in gcc compiler,we use : &nbsp; "gcc sum.c"<br/>
+* To compile in riscv compiler,we use : &npsp; "spike pk sum.c"<br/>
 
 
 
