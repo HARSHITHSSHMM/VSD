@@ -83,7 +83,10 @@ Instructor: KUNAL GHOSH
 * Spike is used as simulator for RISC-V ISA.It is a free open-source C++ Simulator.<br/>
 * In this task we are going to show that gcc compiler and riscv compiler.<br/>
 * To compile in gcc compiler,we use : &nbsp; "gcc sum.c"<br/>
-* To compile in riscv compiler,we use : &nbsp; "spike pk sum.c"<br/>
+* To compile in riscv compiler,we use : &nbsp; "spike pk sum.c"<br/><br/>
+![program](https://github.com/user-attachments/assets/b5985661-f6d9-4238-8fa8-b322e69b896d)<br/><br/>
+
+
 
 
 
