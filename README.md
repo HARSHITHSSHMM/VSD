@@ -78,6 +78,8 @@ Instructor: KUNAL GHOSH
 -> o3    : More optimization than o2.<br/>
 -> os    : enables all o2 optimizationsthat do not typically increase code size.<br/>
 -> ofast : optimiztion flag used to instruct compiler to optimize generated code for maximum speed.<br/><br/>
+<br/>
+# Task-2:
 
 
 
