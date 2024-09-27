@@ -85,6 +85,8 @@ Instructor: KUNAL GHOSH
 * To compile in gcc compiler,we use : &nbsp; "gcc sum.c"<br/>
 * To compile in riscv compiler,we use : &nbsp; "spike pk sum.c"<br/><br/>
 ![program](https://github.com/user-attachments/assets/b5985661-f6d9-4238-8fa8-b322e69b896d)<br/><br/>
+![instr_1](https://github.com/user-attachments/assets/af2b889f-3415-46bf-a0a7-73ece2af066a)<br/><br/>
+
 
 
 
