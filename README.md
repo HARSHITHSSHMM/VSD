@@ -91,8 +91,12 @@ Instructor: KUNAL GHOSH
 ![main_obj](https://github.com/user-attachments/assets/7fe44d5c-37d7-4643-be05-9ad530435f17)<br/><br/>
 * We can see the object file in above picture.<br/>
 * We run the debugger with "until pc 0 100b0". It is to run the "Program Counter(PC)" from address 0 to 100b0.<br/>
-* We can see the instruction lui a0,0x2b.Here,lui means " Load Upper Immediate" <br/><br/>
-![Screenshot 2024-09-27 200715](https://github.com/user-attachments/assets/efdba906-06ce-4736-b579-36c761b89465)
+* We can see the instruction lui a0,0x2b.Here,"lui" means " Load Upper Immediate" <br/><br/>
+![Screenshot 2024-09-27 200715](https://github.com/user-attachments/assets/efdba906-06ce-4736-b579-36c761b89465)<br/><br/>
+We can also see "addi sp,sp,-32". Here "addi" means add immediate.<br/><br/>
+![Screenshot 2024-09-27 201258](https://github.com/user-attachments/assets/4071a010-4a04-43fa-a443-0afb03e9929e)<br/><br/>
+
+
 
 
 
