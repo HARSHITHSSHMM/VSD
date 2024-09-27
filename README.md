@@ -93,8 +93,14 @@ Instructor: KUNAL GHOSH
 * We run the debugger with "until pc 0 100b0". It is to run the "Program Counter(PC)" from address 0 to 100b0.<br/>
 * We can see the instruction lui a0,0x2b.Here,"lui" means " Load Upper Immediate" <br/><br/>
 ![Screenshot 2024-09-27 200715](https://github.com/user-attachments/assets/efdba906-06ce-4736-b579-36c761b89465)<br/><br/>
-We can also see "addi sp,sp,-32". Here "addi" means add immediate.<br/><br/>
+* To see the register content, we are going to use : " reg 0 register_name ".
+We can also see "addi sp,sp,-32". Here "addi" means "add immediate".<br/><br/>
 ![Screenshot 2024-09-27 201258](https://github.com/user-attachments/assets/4071a010-4a04-43fa-a443-0afb03e9929e)<br/><br/>
+* All these instructions will be explored further in upcoming tasks.<br/><br/>
+![instr_2](https://github.com/user-attachments/assets/de1a2b05-627e-46de-a575-0aabef2ec1f8)<br/><br/>
+* We can see that at first " Stack Pointer(sp) "  has the value of "3ffffffb50".After that it became "3ffffffb30" by adding "-32".<br/>
+* Here, we are using hexadecimal convention. So, in decimal convetion it is "-32" but in hexadecimal convention it is "-20".<br/>
+* We can also use the debugger to check remaining instructions too. 
 
 
 
