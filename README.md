@@ -86,12 +86,14 @@ Instructor: KUNAL GHOSH
 * To compile in riscv compiler,we use : &nbsp; "spike pk sum.c"<br/><br/>
 ![program](https://github.com/user-attachments/assets/b5985661-f6d9-4238-8fa8-b322e69b896d)<br/><br/>
 ![instr_1](https://github.com/user-attachments/assets/af2b889f-3415-46bf-a0a7-73ece2af066a)<br/><br/>
-* From above picture,we can see "spike -d pk sum.c". It is to open debugger.<br/><br/>
+* From above picture,we can see "spike -d pk sum.c". It is to open the debugger mode.<br/><br/>
 ![objdump](https://github.com/user-attachments/assets/42fcf8da-447f-44d8-b42c-1d4ca5004a2e)<br/><br/>
 ![main_obj](https://github.com/user-attachments/assets/7fe44d5c-37d7-4643-be05-9ad530435f17)<br/><br/>
 * We can see the object file in above picture.<br/>
 * We run the debugger with "until pc 0 100b0". It is to run the "Program Counter(PC)" from address 0 to 100b0.<br/>
-* 
+* We can see the instruction lui a0,0x2b.Here,lui means " Load Upper Immediate" <br/><br/>
+![Screenshot 2024-09-27 200715](https://github.com/user-attachments/assets/efdba906-06ce-4736-b579-36c761b89465)
+
 
 
 
