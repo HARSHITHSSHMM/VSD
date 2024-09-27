@@ -79,7 +79,8 @@ Instructor: KUNAL GHOSH
 -> os    : enables all o2 optimizationsthat do not typically increase code size.<br/>
 -> ofast : optimiztion flag used to instruct compiler to optimize generated code for maximum speed.<br/><br/>
 # Task-2:
-
+* Our second task is to perform "SPIKE" simulation and Debugging.<br/>
+* Spike is used as simulator for RISC-V ISA.It is free open-source C++ Simulator.<br/>
 
 
 
