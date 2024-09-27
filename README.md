@@ -86,6 +86,11 @@ Instructor: KUNAL GHOSH
 * To compile in riscv compiler,we use : &nbsp; "spike pk sum.c"<br/><br/>
 ![program](https://github.com/user-attachments/assets/b5985661-f6d9-4238-8fa8-b322e69b896d)<br/><br/>
 ![instr_1](https://github.com/user-attachments/assets/af2b889f-3415-46bf-a0a7-73ece2af066a)<br/><br/>
+* From above picture,we can see "spike -d pk sum.c". it is to open debugger.<br/><br/>
+![objdump](https://github.com/user-attachments/assets/42fcf8da-447f-44d8-b42c-1d4ca5004a2e)<br/><br/>
+![main_obj](https://github.com/user-attachments/assets/7fe44d5c-37d7-4643-be05-9ad530435f17)<br/><br/>
+
+
 
 
 
