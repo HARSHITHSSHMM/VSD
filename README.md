@@ -105,7 +105,9 @@ Instructor: KUNAL GHOSH
 * In this task, we are going to learn about different types of instruction formats in RISC-V.<br/>
 * There are 6 types of instruction formats as shown below.
 <br/><br/>
-![Six-basic-instruction-formats-of-the-RISC-V-instruction-set-3-RISC-V-processor-core](https://github.com/user-attachments/assets/7b6acd2e-ed14-4232-8a45-71469c12544e)
+![Six-basic-instruction-formats-of-the-RISC-V-instruction-set-3-RISC-V-processor-core](https://github.com/user-attachments/assets/7b6acd2e-ed14-4232-8a45-71469c12544e)<br/><br/>
+### R-format:
+
 
 
 
