@@ -9,8 +9,7 @@ Instructor: KUNAL GHOSH
 -> First,make sure you are in the home directory<br/>
 -> Open the terminal and enter the command:  &ensp;<br/> &nbsp;&nbsp;
 > " gedit sum.c "
-( We can enter any file name )<br/>
-<br/>
+( We can enter any file name )<br/><br/>
 ![pic_1](https://github.com/user-attachments/assets/c89256d2-147c-49ad-9f4b-ba211215fa10)<br/>
 <br/>
 -> The program is as shown in the above image.<br/>
