@@ -112,7 +112,7 @@ Instructor: KUNAL GHOSH
 * "rs1" and "rs2" represent two 5-bit source registers.<br/>
 * "rd" is a 5-bit destination register, and the result of the instruction operation is stored in rd.<br/>
 * "imm" represents an immediate number of different lengths, which can be used directly as an operand. 
-### R-format:
+### R-type Instructions:
 -> It is a 32-bit instruction format.<br/>
 -> These instructions use 3 register inputs.<br/>
 -> Two registers are used as source operands (rs1 and rs2).<br/>
@@ -143,6 +143,11 @@ Instructor: KUNAL GHOSH
 * OR    : Bitwise OR <br/>
 * AND   : Bitwise AND <br>
 
+### I-Type Instructions:
+-> These are called as "Immediate" instructions which are used for operations involving immediate value.<br/>
+-> These perform arithmetic and logical operations where one operand is a constant(immediate).<br/>
+-> This type of instrutions contains "funct3", "rs1","rd","opcode" and  "imm".
+-> 
 
 
 
