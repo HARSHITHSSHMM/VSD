@@ -119,7 +119,8 @@ Instructor: KUNAL GHOSH
 -> One desination register (rd).<br/>
 -> Arithmetic and logical instructions comes under this format. Ex: add,xor,mul etc.<br/>
 -> Arithmetic and logical operations between registers.<br/>
--> 
+-> The instruction syntax is like:<br/>
+> add rd,rs1,rs2
 
 
 
