@@ -129,12 +129,12 @@ Instructor: KUNAL GHOSH
 
 -> Here, we can see that "opcode" for all R-type instructions is "0110011" and for "funct7" is "0000000" for all except for subtraction "0100000".<br/>
 -> From above image:<br/>
-* ADD &nbsp; : Addition <br/>
-* SUB &nbsp; : Subtraction <br/>
-* SLL &nbsp; : Shift Left Logical <br/>
-* SLT &nbsp; : Set Less Than <br/>
-* SLTU&nbsp;: Set Less Than Unsigned <br/>
-* XOR  &nbsp;: Bitwise xor <br/>
+* ADD   : Addition <br/>
+* SUB   : Subtraction <br/>
+* SLL   : Shift Left Logical <br/>
+* SLT   : Set Less Than <br/>
+* SLTU  : Set Less Than Unsigned <br/>
+* XOR   : Bitwise xor <br/>
 
 
 
