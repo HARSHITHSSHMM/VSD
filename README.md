@@ -175,7 +175,27 @@ Instructor: KUNAL GHOSH
 
 > ori rd,rs1,imm
 
--> It performs a bitwise OR operation between "rs1" and "imm" values.
+-> It performs a bitwise OR operation between "rs1" and "imm" values.<br/>
+
+* SLLI : Shift Left Logical Immediate.<br/>
+
+> slli rd,rs1,imm
+
+-> It left shifts the value in "rs1" by the value given in  "imm" and stores it in rd.The vacated bits are filled with 'zeroes'.<br/>
+
+
+* SRLI : Shift Right Logical Immediate.<br/>
+
+> srli rd,rs1,imm
+
+-> It right shifts the value in "rs1" by the value given in  "imm" and stores it in rd.The vacated bits are filled with 'zeroes'.<br/>
+
+
+* SRAI : Shift Right Arithmetic Immediate.<br/>
+
+> srai rd,rs1,imm
+
+-> It right shifts the value in "rs1" by the value given in  "imm" and stores it in rd.The vacated bits are filled with 'sign bit'.<br/>
 
 
 
