@@ -122,6 +122,8 @@ Instructor: KUNAL GHOSH
 -> The instruction syntax is like:<br/>
 > add rd,rs1,rs2
 
+<br/><br/>
+![WhatsApp Image 2024-10-02 at 18 24 23_e72038e7](https://github.com/user-attachments/assets/3fa268fe-4801-40fe-a93c-1f8519b46bcf)
 
 
 
