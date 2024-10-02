@@ -208,6 +208,16 @@ Instructor: KUNAL GHOSH
 
 ![WhatsApp Image 2024-10-02 at 20 43 44_addcfc45](https://github.com/user-attachments/assets/9c4f92f9-d9a4-4c3f-840f-ede754f01439)<br/><br/>
 
+-> Opcode reamins "1100011".<br/>
+-> Target Address = PC(program Counter) + Immediate Target address.<br/>
+-> From above image:<br/>
+* BEQ   : Branch Equal to <br/>
+* BNEQ  : Branch Not Equal to <br/>
+* BGE   : Branch Greater than or Equal to<br/>
+* BLT   : Branch Less Than<br/>
+-> U means 'unsigned'.<br/>
+
+
 
 
 
