@@ -138,6 +138,11 @@ Instructor: KUNAL GHOSH
 * SLT   : Set Less Than <br/>
 * SLTU  : Set Less Than Unsigned <br/>
 * XOR   : Bitwise xor <br/>
+* SRL   : Shift Right Logical <br/>
+* SRA   : Shift Right Arithmetic <br/>
+* OR    : Bitwise OR <br/>
+* AND   : Bitwise AND <br>
+
 
 
 
