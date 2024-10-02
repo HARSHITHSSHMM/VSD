@@ -145,7 +145,13 @@ Instructor: KUNAL GHOSH
 -> These are called as "Immediate" instructions which are used for operations involving immediate value.<br/>
 -> These perform arithmetic and logical operations where one operand is a constant(immediate).<br/>
 -> This type of instrutions contains "funct3", "rs1","rd","opcode" and  "imm". <br/>
--> 
+-> I type instruction uses 12-bit immediate value ranging from -2047 to 2048. <br/>
+-> Some of the I-type instructions are => <br/>
+* LI : Load Immediate.<br/>
+
+> li rd,imm
+
+-> It loads
 
 
 
