@@ -102,7 +102,8 @@ Instructor: KUNAL GHOSH
 * Here, we are using hexadecimal convention. So, in decimal convetion it is "-32" but in hexadecimal convention it is "-20".<br/>
 * We can also use the debugger to check remaining instructions too. <br/><br/>
 # Task-3:
-* 
+<br/><br/>
+![Screenshot 2024-10-02 155110](https://github.com/user-attachments/assets/a4bc621a-5421-4d10-8b4d-3a7bef7d67a2)
 
 
 
