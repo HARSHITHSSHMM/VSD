@@ -107,7 +107,8 @@ Instructor: KUNAL GHOSH
 <br/><br/>
 ![Six-basic-instruction-formats-of-the-RISC-V-instruction-set-3-RISC-V-processor-core](https://github.com/user-attachments/assets/7b6acd2e-ed14-4232-8a45-71469c12544e)<br/><br/>
 * Here, "opcode" represents a 7-bit instruction operator code, its role is to distinguish between different instructions.<br/>
-* "funct3" represents a 3-bit function code, funct7 represents a 7-bit function code, which can help distinguish different kinds of instructions.<br/>
+* "funct3" represents a 3-bit function code.it is an additional opcode.<br/>
+* "funct7" represents a 7-bit function code, which can help distinguish different kinds of instructions.<br/>
 * "rs1" and "rs2" represent two 5-bit source registers.<br/>
 * "rd" is a 5-bit destination register, and the result of the instruction operation is stored in rd.<br/>
 * "imm" represents an immediate number of different lengths, which can be used directly as an operand. 
@@ -116,7 +117,8 @@ Instructor: KUNAL GHOSH
 -> These instructions use 3 register inputs.<br/>
 -> Two registers are used as source operands (rs1 and rs2).<br/>
 -> One desination register (rd).<br/>
-
+-> Arithmetic and logical instructions comes under this format. Ex: add,xor,mul etc.<br/>
+-> 
 
 
 
