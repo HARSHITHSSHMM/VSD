@@ -215,7 +215,7 @@ Instructor: KUNAL GHOSH
 * BNEQ  : Branch Not Equal to <br/>
 * BGE   : Branch Greater than or Equal to<br/>
 * BLT   : Branch Less Than<br/>
--> U means 'unsigned'.<br/>
+-> U means 'unsigned' in BGEU and BLTU.<br/>
 
 
 
