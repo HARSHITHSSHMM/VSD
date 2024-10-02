@@ -107,8 +107,8 @@ Instructor: KUNAL GHOSH
 <br/><br/>
 ![Six-basic-instruction-formats-of-the-RISC-V-instruction-set-3-RISC-V-processor-core](https://github.com/user-attachments/assets/7b6acd2e-ed14-4232-8a45-71469c12544e)<br/><br/>
 ### R-format:
-
-
+-> These instructions use 3 register inputs.<br/>
+-> 
 
 
 
