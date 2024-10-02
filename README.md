@@ -106,6 +106,11 @@ Instructor: KUNAL GHOSH
 * There are 6 types of instruction formats as shown below.
 <br/><br/>
 ![Six-basic-instruction-formats-of-the-RISC-V-instruction-set-3-RISC-V-processor-core](https://github.com/user-attachments/assets/7b6acd2e-ed14-4232-8a45-71469c12544e)<br/><br/>
+* opcode represents a 7-bit instruction operator code, its role is to distinguish between different
+instructions; funct3 represents a 3-bit function code, funct7 represents a 7-bit function code, which can
+help distinguish different kinds of instructions; rs1 and rs2 represent two 5-bit source registers; rd is a
+5-bit destination register, and the result of the instruction operation is stored in rd; imm represents an
+immediate number of different lengths, which can be used directly as an operand. 
 ### R-format:
 -> It is a 32-bit instruction format.<br/>
 -> These instructions use 3 register inputs.<br/>
