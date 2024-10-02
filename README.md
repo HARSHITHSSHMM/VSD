@@ -196,6 +196,9 @@ Instructor: KUNAL GHOSH
 > srai rd,rs1,imm
 
 -> It right shifts the value in "rs1" by the value given in  "imm" and stores it in rd.The vacated bits are filled with 'sign bit'.<br/>
+-> Below are some load instructions of I-type.<br/><br/>
+
+![WhatsApp Image 2024-10-02 at 20 37 42_baee9696](https://github.com/user-attachments/assets/aba4cf5c-67b0-45c1-ad8b-d6e5e585da5c)<br/><br/>
 
 
 
