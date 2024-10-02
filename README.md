@@ -195,10 +195,20 @@ Instructor: KUNAL GHOSH
 
 > srai rd,rs1,imm
 
--> It right shifts the value in "rs1" by the value given in  "imm" and stores it in rd.The vacated bits are filled with 'sign bit'.<br/>
+-> It right shifts the value in "rs1" by the value given in  "imm" and stores it in rd.The vacated bits are filled with 'sign bit'.<br/><br/><br/>
 -> Below are some load instructions of I-type.<br/><br/>
 
 ![WhatsApp Image 2024-10-02 at 20 37 42_baee9696](https://github.com/user-attachments/assets/aba4cf5c-67b0-45c1-ad8b-d6e5e585da5c)<br/><br/>
+
+### B-type Instructions:
+
+-> These are used for conditional branching.<br/>
+-> They compare two registers and branch specified instruction if comparison is true.<br/>
+-> Below image shows different B-type instructions.<br/><br/>
+
+![WhatsApp Image 2024-10-02 at 20 43 44_addcfc45](https://github.com/user-attachments/assets/9c4f92f9-d9a4-4c3f-840f-ede754f01439)<br/><br/>
+
+
 
 
 
