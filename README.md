@@ -151,7 +151,20 @@ Instructor: KUNAL GHOSH
 
 > li rd,imm
 
--> It loads
+-> It loads a constant "imm" into "rd".<br/>
+
+* ADDI : Add Immediate.<br/>
+
+> addi rd,rs1,imm
+
+-> It adds signed immediate "imm" to value in "rs1" and stores in "rd".<br/>
+
+* SUBI : Subtract Immediate.<br/>
+
+> subi rd,rs1,imm
+
+-> It subtracts signed immediate "imm" from value in "rs1" and stores it in "rd".<br/>
+
 
 
 
