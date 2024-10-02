@@ -11,7 +11,6 @@ Instructor: KUNAL GHOSH
 > " gedit sum.c "
 ( We can enter any file name )<br/>
 <br/>
->
 ![pic_1](https://github.com/user-attachments/assets/c89256d2-147c-49ad-9f4b-ba211215fa10)<br/>
 <br/>
 -> The program is as shown in the above image.<br/>
