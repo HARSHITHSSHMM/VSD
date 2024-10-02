@@ -102,6 +102,8 @@ Instructor: KUNAL GHOSH
 * Here, we are using hexadecimal convention. So, in decimal convetion it is "-32" but in hexadecimal convention it is "-20".<br/>
 * We can also use the debugger to check remaining instructions too. <br/><br/>
 # Task-3:
+* In this task, we are going to learn about different types of instruction formats in RISC-V.<br/>
+* There are 6 types of instruction formats as shown below.
 <br/><br/>
 ![Six-basic-instruction-formats-of-the-RISC-V-instruction-set-3-RISC-V-processor-core](https://github.com/user-attachments/assets/7b6acd2e-ed14-4232-8a45-71469c12544e)
 
