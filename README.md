@@ -165,6 +165,17 @@ Instructor: KUNAL GHOSH
 
 -> It subtracts signed immediate "imm" from value in "rs1" and stores it in "rd".<br/>
 
+* SLTI : Set Less Than Immediate.<br/>
+
+> slti rd,rs1,imm
+
+-> It sets destination register to '1' if value in "rs1" is less than value in "imm" or else set to '0'.<br/>
+
+* ORI : OR Immediate.<br/>
+
+> ori rd,rs1,imm
+
+-> It performs a bitwise OR operation between "rs1" and "imm" values.
 
 
 
