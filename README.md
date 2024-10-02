@@ -121,7 +121,7 @@ Instructor: KUNAL GHOSH
 -> Arithmetic and logical operations between registers.<br/>
 
 <br/>
--> Below image shows different types of funct3 and funct7 and opcodes of r type instructions.<br/><br/>
+-> Below images show different types of funct3 and funct7 and opcodes of R-type instructions.<br/><br/>
 
 ![WhatsApp Image 2024-10-02 at 18 24 23_e72038e7](https://github.com/user-attachments/assets/3fa268fe-4801-40fe-a93c-1f8519b46bcf)<br/><br/>
 
