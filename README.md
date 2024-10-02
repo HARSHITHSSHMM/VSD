@@ -217,6 +217,22 @@ Instructor: KUNAL GHOSH
 * BLT   : Branch Less Than<br/>
 -> U means 'unsigned' in BGEU and BLTU.<br/>
 
+### U-type Instructions:
+-> U means "Upper Immediate".<br/>
+-> These are designed to work with large immediate values.<br/>
+-> These involve loading or adding a 20-bit immediate value to either a register or PC(Program Counter).<br/.
+-> Below are some U-type instructions:<br/>
+
+* LUI   : Load Upper Immediate<br/>
+-> It loads 20-bit immediate value into upper 20 bits of a register,setting lower 12 bits to 'zero'.It is used to create large constants or prepare base address for further operations.<br/><br/>
+
+* AUIPC : Add Upper Immediate to PC<br/>
+-> It adds 20-bit immediate value,shifted left by 12 bits to current value of PC.<br/><br/>
+
+
+
+
+
 
 
 
