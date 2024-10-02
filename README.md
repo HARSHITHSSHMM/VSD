@@ -229,6 +229,18 @@ Instructor: KUNAL GHOSH
 * AUIPC : Add Upper Immediate to PC<br/>
 -> It adds 20-bit immediate value,shifted left by 12 bits to current value of PC.<br/><br/>
 
+### J-type Instructions:
+-> These are called as Jump Instructions.<br/>
+-> These are used to alter the flow of execution by setting PC to a specified address.<br/>
+-> These instructions can be conditional and unconditional.<br/>
+-> One of the main jump instructions in RISC-V is:<br/>
+
+* JAL  : Jump and Link.<br/>
+-> It performs unconditional jump to a target address.It also stores return address in 'rd'.<br/>
+-> Used typically for function calls.<br/>
+
+
+
 
 
 
