@@ -239,6 +239,9 @@ Instructor: KUNAL GHOSH
 -> It performs unconditional jump to a target address.It also stores return address in 'rd'.<br/>
 -> Used typically for function calls.<br/>
 
+-> Below is the image of some instructions in the object code.<br/><br/>
+
+![Instr](https://github.com/user-attachments/assets/175ad1cd-b507-43b0-984d-ad613e2b3e1d)<br/><br/>
 
 
 
