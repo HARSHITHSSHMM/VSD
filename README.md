@@ -103,7 +103,8 @@ Instructor: KUNAL GHOSH
 * We can also use the debugger to check remaining instructions too. <br/><br/>
 # Task-3:
 <br/><br/>
-![Screenshot 2024-10-02 155110](https://github.com/user-attachments/assets/a4bc621a-5421-4d10-8b4d-3a7bef7d67a2)
+![Six-basic-instruction-formats-of-the-RISC-V-instruction-set-3-RISC-V-processor-core](https://github.com/user-attachments/assets/7b6acd2e-ed14-4232-8a45-71469c12544e)
+
 
 
 
