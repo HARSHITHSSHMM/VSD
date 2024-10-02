@@ -7,15 +7,15 @@ Instructor: KUNAL GHOSH
 * Compilers we use are GCC and RISC GCC compiler.<br/>
 ### Using C programming:
 -> First,make sure you are in the home directory<br/>
--> Open the terminal and enter the command:  &ensp;<br/> &nbsp;&nbsp;
+-> Open the terminal and enter the command:  &ensp;<br/>
 > " gedit sum.c "
 ( We can enter any file name )<br/><br/>
 ![pic_1](https://github.com/user-attachments/assets/c89256d2-147c-49ad-9f4b-ba211215fa10)<br/>
 <br/>
 -> The program is as shown in the above image.<br/>
--> Now, to check the output, run the commands :<br/> &nbsp;&nbsp;
-> gcc sum.c<br/>
-> ./a.out<br/><br/>
+-> Now, to check the output, run the commands :<br/> 
+> "gcc sum.c" <br/>
+> "./a.out" <br/><br/>
 
 ![pic2](https://github.com/user-attachments/assets/65261cb9-e209-4626-8ee7-c092b13d9f61)<br/>
 <br/>
