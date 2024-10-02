@@ -119,8 +119,6 @@ Instructor: KUNAL GHOSH
 -> One desination register (rd).<br/>
 -> Arithmetic and logical instructions comes under this format. Ex: add,xor,mul etc.<br/>
 -> Arithmetic and logical operations between registers.<br/>
--> The instruction syntax is like:<br/>
-> add rd,rs1,rs2
 
 <br/>
 -> Below image shows different types of funct3 and funct7 and opcodes of r type instructions.<br/><br/>
@@ -146,7 +144,7 @@ Instructor: KUNAL GHOSH
 ### I-Type Instructions:
 -> These are called as "Immediate" instructions which are used for operations involving immediate value.<br/>
 -> These perform arithmetic and logical operations where one operand is a constant(immediate).<br/>
--> This type of instrutions contains "funct3", "rs1","rd","opcode" and  "imm".
+-> This type of instrutions contains "funct3", "rs1","rd","opcode" and  "imm". <br/>
 -> 
 
 
