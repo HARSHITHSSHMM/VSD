@@ -337,6 +337,16 @@ Note :<br/>
 -> Operation => 1 ^ 4 = 5 (bitwwise XOR operation) -> 001 ^ 100 = 101.
 ### **SLT R1,R2,R4**:
 ![SLT](https://github.com/user-attachments/assets/63a4b114-9d55-4f2f-8cfb-df8a49e90cd6)<br/><br/>
+-> EX_MEM_IR\[31:0] = 32'h02415580.<br/>
+-> SLT means ' Set if Less Than ' .For rs1 and rs2 => if rs1 < rs2 output will be ' 1 ' or else ' 0 '.<br/>
+-> Operation : 2 < 4 = 1.
+### **ADDI R12,R4,4**:
+![ADDI](https://github.com/user-attachments/assets/9cda8c36-2dd5-4edb-98e0-b8fc2e0d3eb5)<br/><br/>
+-> EX_MEM_IR\[31:0] = 32'h00520600.<br/>
+-> ADDI means 'Add Immediate '.<br/>
+-> Operation 4 + 5 =9.
+### **
+
 
 
 
