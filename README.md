@@ -311,9 +311,9 @@ Note :<br/>
 * ' clk ' is the clock signal.<br/>
 * ' EX_MEM_IR\[31:0] is the 32-bit register storing instruction.<br/>
 * ' ID_EX_A\[31:0] ' and ' ID_EX_B\[31:0] ' are the operands (32-bit registers).<br/>
-* ' EX_MEM_ALUOUT\[31:0] ' is the output 32-bit register.<br/>
-**Note**:
-  We can observe the delay of " one clock cycle " in the output (sequential)=> So, we have to do operations between op1\[n-1] and op2\[n-1].(such as in signals) 
+* ' EX_MEM_ALUOUT\[31:0] ' is the output 32-bit register.<br/><br/>
+**Note** :<br/>
+**We can observe the delay of " one clock cycle " in the output (sequential)=> So, we have to do operations between op1\[n-1] and op2\[n-1].(such as in signals)**
 ### **ADD R6,R1,R2** :
 ![ADD](https://github.com/user-attachments/assets/d5553d69-368e-4e59-b3c6-7921b6c18097)<br/><br/>
 -> EX_MEM_IR\[31:0] = 32'h02208300.<br/>
