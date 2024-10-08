@@ -304,7 +304,12 @@ Note :<br/>
 * To see the waveforms, we have to append them to the waveformsimulator.<br/>
 * For that, click on the signal and click on ' append '.<br/>
 ### Instructions: 
-* The below images will show the output waveform showing the instructions performed in a 5-stage pipelined architecture.
+* The below images will show the output waveform showing the instructions performed in a 5-stage pipelined architecture.<br/>
+* In these images=><br/>
+* ' clk ' is the clock signal.<br/>
+* ' EX_MEM_IR\[31:0]\ is the instruction.<br/>
+* ' ID_EX_A\[31:0]\ ' and ' ID_EX_B\[31:0]\ ' are the operands (32-bit registers).<br/>
+* ' EX_MEM_ALUOUT\[31:0]\ ' is the output 32-bit register.
 ### **ADD R6,R1,R2** :
 ![ADD](https://github.com/user-attachments/assets/3e22024b-62df-4eab-b341-15f98e9d1a6d)
 
