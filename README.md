@@ -265,7 +265,7 @@ Instructor: KUNAL GHOSH
 > opcode = 0000000.<br/>
 > From this, we can write the expression as => " ADD R6,R1,R2 ".<br/>
 
-## **ADD R6,R1,R2** :
+### **ADD R6,R1,R2** :
 
 
 
