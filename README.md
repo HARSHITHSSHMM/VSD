@@ -313,7 +313,7 @@ Note :<br/>
 * ' ID_EX_A\[31:0] ' and ' ID_EX_B\[31:0] ' are the operands (32-bit registers).<br/>
 * ' EX_MEM_ALUOUT\[31:0] ' is the output 32-bit register.<br/>
 **Note**:
-  We can observe a delay of " one clock cycle " in the output => So, we have to do operation on op1\[n] and op2\[n-1].(such as in signals) 
+  We can observe the delay of " one clock cycle " in the output (sequential)=> So, we have to do operations between op1\[n-1] and op2\[n-1].(such as in signals) 
 ### **ADD R6,R1,R2** :
 ![ADD](https://github.com/user-attachments/assets/d5553d69-368e-4e59-b3c6-7921b6c18097)<br/><br/>
 -> EX_MEM_IR\[31:0] = 32'h02208300.<br/>
@@ -326,8 +326,13 @@ Note :<br/>
 ### **AND R8,R1,R3**:
 ![AND](https://github.com/user-attachments/assets/4cc9e4f7-53d6-42c3-9275-2a51397894b8)<br/><br/>
 -> EX_MEM_IR\[31:0] = 32'h0230A400.<br/>
--> Operation => 1 & 3 = 1 (bitwise AND operation) -> 001 & 011 = 001
-### **
+-> Operation => 1 & 3 = 1 (bitwise AND operation) -> 001 & 011 = 001.
+### **OR R9,R2,R5**:
+![OR](https://github.com/user-attachments/assets/cabac9e9-1db5-41d6-8c8e-61f7183a618e)<br/><br/>
+-> EX_MEM_IR\[31:0] = 32'h02513480.<br/>
+-> Operation => 2 | 5 = 7 (bitwise OR operation) -> 010 | 101 = 111. 
+### **XOR R10,R1,R4**:
+
 
 
 
