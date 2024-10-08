@@ -248,7 +248,7 @@ Instructor: KUNAL GHOSH
 * This is a micro-architecture of a few important instructions of the instruction set of a Single cycle Reduced Instruction Set Computer - Five(RISC-V) Instruction Set Architecture suitable for use across wide-spectrum of Applications from low power embedded devices to high performance Cloud based Server processors.<br/>
 * All the registers are 32-bit long.<br/>
 | Instruction | Code |
-| --------- | -------------- |
+| --- | --- |
 
 
 
