@@ -365,6 +365,8 @@ Note :<br/>
 -> Since the stored value in register is same as output, we have to increment PC by immediate value = 15.<br/>
 -> PC = 10 (previous cycle) . Operation => 10 +15 = 25.
 ### **ADD R14,R2,R2**:
+![ADD2](https://github.com/user-attachments/assets/944b9d3f-137b-442a-99c8-ce690fa0ce70)<br/><br/>
+
 -> EX_MEM_IR\[31:0] = 32'h00210700.<br/>
 -> Operation => 2 + 2 = 4.<br/><br/><br/>
 
