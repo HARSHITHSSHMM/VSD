@@ -332,6 +332,13 @@ Note :<br/>
 -> EX_MEM_IR\[31:0] = 32'h02513480.<br/>
 -> Operation => 2 | 5 = 7 (bitwise OR operation) -> 010 | 101 = 111. 
 ### **XOR R10,R1,R4**:
+![XOR](https://github.com/user-attachments/assets/69869f09-89d4-43aa-8e07-2b6cf65114c3)<br/><br/>
+-> EX_MEM_IR\[31:0] = 32'h0240C500.<br/>
+-> Operation => 1 ^ 4 = 5 (bitwwise XOR operation) -> 001 ^ 100 = 101.
+### **SLT R1,R2,R4**:
+![SLT](https://github.com/user-attachments/assets/63a4b114-9d55-4f2f-8cfb-df8a49e90cd6)<br/><br/>
+
+
 
 
 
