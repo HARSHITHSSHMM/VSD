@@ -254,16 +254,19 @@ Instructor: KUNAL GHOSH
 * Now we are going to debug an instruction.<br/>
 -> Let us take " add r6,r1,r2 ".<br/> 
 
-> Given 32'h02208300.
-> 0000 0010 0010 0000 1000 0011 0000 0000
-> It can be written as =>
-> funct7 = 0000001.
-> rs2 = 00010 (which is r2).
-> rs1 = 00001 (which is r1).
-> funct3 = 000.
-> rd = 00110 (which is r6).
-> opcode = 0000000.
-> From this, we can write expression as => " ADD R6,R1,R2 ".
+> Given 32'h02208300.<br/>
+> 0000 0010 0010 0000 1000 0011 0000 0000<br/>
+> It can be written as =><br/>
+> funct7 = 0000001.<br/>
+> rs2 = 00010 (which is r2).<br/>
+> rs1 = 00001 (which is r1).<br/>
+> funct3 = 000.<br/>
+> rd = 00110 (which is r6).<br/>
+> opcode = 0000000.<br/>
+> From this, we can write expression as => " ADD R6,R1,R2 ".<br/>
+
+
+
 
 
 
