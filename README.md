@@ -265,6 +265,29 @@ Instructor: KUNAL GHOSH
 > opcode = 0000000.<br/>
 > From this, we can write the expression as => " ADD R6,R1,R2 ".<br/>
 
+
+* To implement this verilog code and simulate waveforms, we need to follow below steps.<br/>
+* In the below steps, ' directory ' and ' module ' names are of your choice.<br/> 
+### Step-1:
+-> Create a directory using command ' mkdir ' in the terminal.
+> mkdir directory_name
+
+### Step-2:
+-> Set the path to the directory using command 'cd'  in the terminal.
+> cd directory_name
+
+### Step-3:
+-> Now, create two ' .v ' files using command ' touch ' .
+> touch module_name.v<br/>
+> touch module_name_tb.v
+
+### Step-4:
+
+* This image shows the user interface of " gtkwave " .<br/><br/>
+![Gtkwave](https://github.com/user-attachments/assets/61642f99-d951-4242-897f-67f50aca382c)<br/><br/>
+
+
+* The below images will show the output waveform showing the instructions performed in a 5-stage pipelined architecture.
 ### **ADD R6,R1,R2** :
 
 
