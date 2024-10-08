@@ -267,28 +267,36 @@ Instructor: KUNAL GHOSH
 
 
 * To implement this verilog code and simulate waveforms, we need to follow below steps.<br/>
-* In the below steps, ' directory ' and ' module ' names are of your choice.<br/> 
+* In the below steps, ' directory ' and ' module ' names are of your choice.<br/>
+Note : ' $ ' need not to be typed in the terminal.
 ### Step-1:
 -> Create a directory using command ' mkdir ' in the terminal.
-> mkdir directory_name
+> $ mkdir directory_name
 
 ### Step-2:
 -> Set the path to the directory using command 'cd'  in the terminal.
-> cd directory_name
+> $ cd directory_name
 
 ### Step-3:
 -> Now, create two ' .v ' files using command ' touch ' .<br/>
 -> ' .v ' is the extension for verilog files.
-> touch module_name.v<br/>
-> touch module_name_tb.v
+> $ touch module_name.v<br/>
+> $ touch module_name_tb.v
 
 ### Step-4:
 -> To run the verilog code enter below commands.<br/>
 Note :<br/>
 1) While running this command, you have to be in the directory where .v files exist.<br/>
 2) The code doesn't give us any block diagrams or elaborated designs.
-> iverilog -o directory_name module_name.v module_name_tb.v <br/>
-> ./directory_name
+> $ iverilog -o directory_name module_name.v module_name_tb.v <br/>
+> $ ./directory_name
+-> From running these commands, ' .vcd ' file will be generated.<br/>
+-> We use this ' .vcd ' file for simulation.
+
+### Step-5:
+-> To simulate the waveforms,we are going to use ' gtkwave '.<br/>
+-> To invoke gtkwave => 
+> gtkwave module_name.vcd
 
 * This image shows the user interface of " gtkwave " .<br/><br/>
 ![Gtkwave](https://github.com/user-attachments/assets/61642f99-d951-4242-897f-67f50aca382c)<br/><br/>
