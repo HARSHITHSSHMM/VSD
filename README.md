@@ -263,7 +263,10 @@ Instructor: KUNAL GHOSH
 > funct3 = 000.<br/>
 > rd = 00110 (which is r6).<br/>
 > opcode = 0000000.<br/>
-> From this, we can write expression as => " ADD R6,R1,R2 ".<br/>
+> From this, we can write the expression as => " ADD R6,R1,R2 ".<br/>
+
+## **ADD R6,R1,R2** :
+
 
 
 
