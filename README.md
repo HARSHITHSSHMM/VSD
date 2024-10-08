@@ -243,6 +243,13 @@ Instructor: KUNAL GHOSH
 
 ![Instr](https://github.com/user-attachments/assets/175ad1cd-b507-43b0-984d-ad613e2b3e1d)<br/><br/>
 
+# Task-4:
+* In this task, we are going to use a pre-written verilog code which is a micro-architecture and analyse the waveforms.<br/>
+* This is a micro-architecture of a few important instructions of the instruction set of a Single cycle Reduced Instruction Set Computer - Five(RISC-V) Instruction Set Architecture suitable for use across wide-spectrum of Applications from low power embedded devices to high performance Cloud based Server processors.<br/>
+* All the registers are 32-bit long.<br/>
+| Instruction | Code |
+| --------- | -------------- |
+
 
 
 
