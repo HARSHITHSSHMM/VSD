@@ -301,9 +301,12 @@ Note :<br/>
 * This image shows the user interface of " gtkwave " .<br/><br/>
 ![Gtkwave](https://github.com/user-attachments/assets/61642f99-d951-4242-897f-67f50aca382c)<br/><br/>
 
-
+* To see the waveforms, we have to append them to the waveformsimulator.<br/>
+* For that, click on the signal and click on ' append '.<br/>
+### Instructions: 
 * The below images will show the output waveform showing the instructions performed in a 5-stage pipelined architecture.
 ### **ADD R6,R1,R2** :
+![ADD](https://github.com/user-attachments/assets/3e22024b-62df-4eab-b341-15f98e9d1a6d)
 
 
 
