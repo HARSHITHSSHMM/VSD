@@ -311,16 +311,23 @@ Note :<br/>
 * ' clk ' is the clock signal.<br/>
 * ' EX_MEM_IR\[31:0] is the 32-bit register storing instruction.<br/>
 * ' ID_EX_A\[31:0] ' and ' ID_EX_B\[31:0] ' are the operands (32-bit registers).<br/>
-* ' EX_MEM_ALUOUT\[31:0] ' is the output 32-bit register.
-** Note : ** 
+* ' EX_MEM_ALUOUT\[31:0] ' is the output 32-bit register.<br/>
+**Note**:
+  We can observe a delay of " one clock cycle " in the output => So, we have to do operation on op1\[n] and op2\[n-1].(such as in signals) 
 ### **ADD R6,R1,R2** :
-![ADD](https://github.com/user-attachments/assets/3e22024b-62df-4eab-b341-15f98e9d1a6d)<br/><br/>
+![ADD](https://github.com/user-attachments/assets/d5553d69-368e-4e59-b3c6-7921b6c18097)<br/><br/>
 -> EX_MEM_IR\[31:0] = 32'h02208300.<br/>
+-> Operation => 1 + 2 = 3.
 ### **SUB R7,R1,R2** :
+![SUB](https://github.com/user-attachments/assets/13652fc6-e410-4b88-adcc-5dfa111f3400)<br/><br/>
 -> EX_MEM_IR\[31:0] = 02209380.<br/>
+-> Operation => 1 - 2 = -1. (In signed decimal form).<br/>
+-> In hexadecimal form, it is 'FFFFFFFF' (2's complement).
 ### **AND R8,R1,R3**:
+![AND](https://github.com/user-attachments/assets/4cc9e4f7-53d6-42c3-9275-2a51397894b8)<br/><br/>
 -> EX_MEM_IR\[31:0] = 32'h0230A400.<br/>
-### 
+-> Operation => 1 & 3 = 1 (bitwise AND operation) -> 001 & 011 = 001
+### **
 
 
 
