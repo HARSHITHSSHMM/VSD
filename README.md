@@ -277,11 +277,18 @@ Instructor: KUNAL GHOSH
 > cd directory_name
 
 ### Step-3:
--> Now, create two ' .v ' files using command ' touch ' .
+-> Now, create two ' .v ' files using command ' touch ' .<br/>
+-> ' .v ' is the extension for verilog files.
 > touch module_name.v<br/>
 > touch module_name_tb.v
 
 ### Step-4:
+-> To run the verilog code enter below commands.<br/>
+Note :<br/>
+1) While running this command, you have to be in the directory where .v files exist.<br/>
+2) The code doesn't give us any block diagrams or elaborated designs.
+> iverilog -o directory_name module_name.v module_name_tb.v <br/>
+> ./directory_name
 
 * This image shows the user interface of " gtkwave " .<br/><br/>
 ![Gtkwave](https://github.com/user-attachments/assets/61642f99-d951-4242-897f-67f50aca382c)<br/><br/>
