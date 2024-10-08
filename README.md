@@ -302,16 +302,25 @@ Note :<br/>
 ![Gtkwave](https://github.com/user-attachments/assets/61642f99-d951-4242-897f-67f50aca382c)<br/><br/>
 
 * To see the waveforms, we have to append them to the waveformsimulator.<br/>
-* For that, click on the signal and click on ' append '.<br/>
+* For that, click on the signal and click on ' append '.<br/><br/>
+![Append](https://github.com/user-attachments/assets/d08bf1d8-ccd2-4fc1-afbb-1a35146dd2c5)<br/><br/>
+
 ### Instructions: 
 * The below images will show the output waveform showing the instructions performed in a 5-stage pipelined architecture.<br/>
 * In these images=><br/>
 * ' clk ' is the clock signal.<br/>
-* ' EX_MEM_IR\[31:0] is the instruction.<br/>
+* ' EX_MEM_IR\[31:0] is the 32-bit register storing instruction.<br/>
 * ' ID_EX_A\[31:0] ' and ' ID_EX_B\[31:0] ' are the operands (32-bit registers).<br/>
 * ' EX_MEM_ALUOUT\[31:0] ' is the output 32-bit register.
+** Note : ** 
 ### **ADD R6,R1,R2** :
-![ADD](https://github.com/user-attachments/assets/3e22024b-62df-4eab-b341-15f98e9d1a6d)
+![ADD](https://github.com/user-attachments/assets/3e22024b-62df-4eab-b341-15f98e9d1a6d)<br/><br/>
+-> EX_MEM_IR\[31:0] = 32'h02208300.<br/>
+### **SUB R7,R1,R2** :
+-> EX_MEM_IR\[31:0] = 02209380.<br/>
+### **AND R8,R1,R3**:
+-> EX_MEM_IR\[31:0] = 32'h0230A400.<br/>
+### 
 
 
 
