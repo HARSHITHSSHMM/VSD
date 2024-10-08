@@ -344,8 +344,34 @@ Note :<br/>
 ![ADDI](https://github.com/user-attachments/assets/9cda8c36-2dd5-4edb-98e0-b8fc2e0d3eb5)<br/><br/>
 -> EX_MEM_IR\[31:0] = 32'h00520600.<br/>
 -> ADDI means 'Add Immediate '.<br/>
--> Operation 4 + 5 =9.
-### **
+-> Operation 4 + 5 = 9.
+### **SW R3,R1,2**:
+![SW](https://github.com/user-attachments/assets/af3b30a2-61ac-49e8-b626-466a66a15d41)<br/><br>
+-> EX_MEM_IR\[31:0] = 32'h00209181.<br/>
+-> SW means ' Store Word '.<br/>
+-> Here Memory address = Base value in register + 12-bit offset.<br/>
+-> Offset = 2 , base value = 1; Output = 3;
+### **LW R13,R1,2**: 
+![LW](https://github.com/user-attachments/assets/f524ff48-9d44-4de6-acd9-f2a256aba3cd)<br/><br/>
+-> EX_MEM_IR\[31:0] = 32'h00208681.<br/>
+-> LW means ' Load Word '.
+-> Here Memory address = Base value in register + 12-bit offset.<br/>
+-> Offset = 2 , base value = 1; Output = 3;
+### **BEQ R0,R0,15**:
+![BEQ (2)](https://github.com/user-attachments/assets/be8dced3-b7f4-4bb3-8d3d-73e4bc3c017a)<br/><br/>
+-> EX_MEM_IR\[31:0] = 32'h00f00002.<br/>
+-> BEQ means ' Branch if Equal '.<br/>
+-> We can see a new line named ' ID_EX_NPC '. It is the " Program Counter (PC) ".<br/>
+-> Since the stored value in register is same as output, we have to increment PC by immediate value = 15.<br/>
+-> PC = 10 (previous cycle) . Operation => 10 +15 = 25.
+### **ADD R14,R2,R2**:
+-> EX_MEM_IR\[31:0] = 32'h00210700.<br/>
+-> Operation => 2 + 2 = 4.<br/><br/><br/>
+
+
+* These are the instructions used in the given micro-architecture
+
+
 
 
 
