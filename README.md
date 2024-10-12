@@ -414,7 +414,7 @@ Note :<br/>
 ![Screenshot 2024-10-12 161707](https://github.com/user-attachments/assets/21b57587-5ebe-416b-ab74-308333cbf153)<br/><br/>
 ![Screenshot 2024-10-12 161826](https://github.com/user-attachments/assets/0a3e643f-4447-4e6d-bc6f-d16591e81750)<br/><br/>
 -> Save and close and problem is cleared(for me, it helped)<br/>
-## Aplication video:
+## Application video:
 
 
 https://github.com/user-attachments/assets/191e6b7c-7af2-457d-bf23-f34fefd21720
