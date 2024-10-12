@@ -398,6 +398,12 @@ Note :<br/>
  ![WhatsApp Image 2024-10-12 at 15 33 50_857bca15](https://github.com/user-attachments/assets/0130823a-0c60-44fa-8974-28e67529f58e)<br/><br/>
 * Input : Input is taken from the LDR.
 * Outputs : Outputs are given to Laser Emitter and Buzzer.
+### Program:
+* Below is the image of the program.<br/><br/>
+![Screenshot 2024-10-12 154159](https://github.com/user-attachments/assets/41fa6265-4db1-4ace-8f34-1f4d9e3c29d9)<br/><br/>
+* Below image is the configurations of the board.<br/><br/>
+![Screenshot 2024-10-12 154347](https://github.com/user-attachments/assets/3494b49b-6971-41b3-a1c2-eaf3b9cf8733)<br/><br/>
+
 
 
 
