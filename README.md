@@ -399,7 +399,7 @@ Note :<br/>
 * Input : Input is taken from the LDR.
 * Outputs : Outputs are given to Laser Emitter and Buzzer.<br/><br/>
 | Laser Emitter | CH32V003x |
-| :---: | :---: |
+| :-----------: | :-------: |
 | Signal(S) | 3.3V |
 | -ve terminal | GND |<br/>
 ### Program:
