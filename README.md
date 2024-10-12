@@ -396,7 +396,8 @@ Note :<br/>
 * Breadboard
 ### Hardware Conections:
  ![WhatsApp Image 2024-10-12 at 15 33 50_857bca15](https://github.com/user-attachments/assets/0130823a-0c60-44fa-8974-28e67529f58e)<br/><br/>
-
+* Input : Input is taken from the LDR.
+* Outputs : Outputs are given to Laser Emitter and Buzzer.
 
 
 
