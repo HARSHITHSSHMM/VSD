@@ -398,8 +398,10 @@ Note :<br/>
  ![WhatsApp Image 2024-10-12 at 15 33 50_857bca15](https://github.com/user-attachments/assets/0130823a-0c60-44fa-8974-28e67529f58e)<br/><br/>
 * Input : Input is taken from the LDR.
 * Outputs : Outputs are given to Laser Emitter and Buzzer.<br/><br/>
-| Laser Emitter | | CH32V003x |
-| --- | | --- |
+| Laser Emitter | CH32V003x |
+| --- | --- |
+| Signal(S) | 3.3V |
+| -ve terminal | GND |
 ### Program:
 * Below is the image of the program.<br/><br/>
 ![Screenshot 2024-10-12 161316](https://github.com/user-attachments/assets/da11774a-bab5-4e14-b52a-3972a4aa91c5)<br/><br/>
