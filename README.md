@@ -398,10 +398,8 @@ Note :<br/>
  ![WhatsApp Image 2024-10-12 at 15 33 50_857bca15](https://github.com/user-attachments/assets/0130823a-0c60-44fa-8974-28e67529f58e)<br/><br/>
 * Input : Input is taken from the LDR.
 * Outputs : Outputs are given to Laser Emitter and Buzzer.<br/><br/>
-| Laser Emitter | CH32V003x |
-| :-----------: | :-------: |
-| Signal(S) | 3.3V |
-| -ve terminal | GND |<br/>
+![conections vsdproject](https://github.com/user-attachments/assets/7b8a0230-0683-4907-9460-540552064d0f)
+
 ### Program:
 * Below is the image of the program.<br/><br/>
 ![Screenshot 2024-10-12 161316](https://github.com/user-attachments/assets/da11774a-bab5-4e14-b52a-3972a4aa91c5)<br/><br/>
@@ -416,6 +414,11 @@ Note :<br/>
 ![Screenshot 2024-10-12 161707](https://github.com/user-attachments/assets/21b57587-5ebe-416b-ab74-308333cbf153)<br/><br/>
 ![Screenshot 2024-10-12 161826](https://github.com/user-attachments/assets/0a3e643f-4447-4e6d-bc6f-d16591e81750)<br/><br/>
 -> Save and close and problem is cleared(for me, it helped)<br/>
+## Aplication video:
+
+
+https://github.com/user-attachments/assets/191e6b7c-7af2-457d-bf23-f34fefd21720
+
 
 
 
