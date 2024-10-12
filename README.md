@@ -400,10 +400,18 @@ Note :<br/>
 * Outputs : Outputs are given to Laser Emitter and Buzzer.
 ### Program:
 * Below is the image of the program.<br/><br/>
-![Screenshot 2024-10-12 154159](https://github.com/user-attachments/assets/41fa6265-4db1-4ace-8f34-1f4d9e3c29d9)<br/><br/>
+![Screenshot 2024-10-12 161316](https://github.com/user-attachments/assets/da11774a-bab5-4e14-b52a-3972a4aa91c5)<br/><br/>
 * Below image is the configurations of the board.<br/><br/>
 ![Screenshot 2024-10-12 154347](https://github.com/user-attachments/assets/3494b49b-6971-41b3-a1c2-eaf3b9cf8733)<br/><br/>
-
+**Note**: If you have any problem with analogRead() in Arduino IDE, follow below steps.(for Windows OS)
+  -> Go to home directory<br/>
+  -> Search for variants.<br/>
+  -> You may see this "Documents\ArduinoData\packages\WCH\hardware\ch32v\1.0.4\variants".<br/>
+  -> Now, go into variants > CH32V00x > CH32V003F4 and open " variant_CH32V003F4 "<br/>
+  -> Then, remove comments on ADC_module and SPI_module.<br/><br/>
+![Screenshot 2024-10-12 161707](https://github.com/user-attachments/assets/21b57587-5ebe-416b-ab74-308333cbf153)<br/><br/>
+![Screenshot 2024-10-12 161826](https://github.com/user-attachments/assets/0a3e643f-4447-4e6d-bc6f-d16591e81750)<br/><br/>
+-> Save and close and problem is cleared(for me, it helped)<br/>
 
 
 
