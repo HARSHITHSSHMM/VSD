@@ -1,8 +1,7 @@
 # VSDSquadron Mini Research Internship Program - 20th September Cohort
 Instructor: KUNAL GHOSH
-
-<details open>
 # Task-1:
+<details open>
 * Our first task is to refer to given videos on C-program based lab and RISCV based lab.<br />
 * We have to execute both the tasks in the terminal.<br/>
 * Compilers we use are GCC and RISC GCC compiler.<br/>
