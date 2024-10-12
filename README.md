@@ -1,7 +1,8 @@
 # VSDSquadron Mini Research Internship Program - 20th September Cohort
 Instructor: KUNAL GHOSH
 
-# Task-1:
+<details open>
+<summary># Task-1:</summary>
 * Our first task is to refer to given videos on C-program based lab and RISCV based lab.<br />
 * We have to execute both the tasks in the terminal.<br/>
 * Compilers we use are GCC and RISC GCC compiler.<br/>
@@ -78,6 +79,7 @@ Instructor: KUNAL GHOSH
 -> o3    : More optimization than o2.<br/>
 -> os    : enables all o2 optimizationsthat do not typically increase code size.<br/>
 -> ofast : optimiztion flag used to instruct compiler to optimize generated code for maximum speed.<br/><br/>
+</details>
 # Task-2:
 * Our second task is to perform "SPIKE" simulation and Debugging.<br/>
 * Spike is used as simulator for RISC-V ISA.It is a free open-source C++ Simulator.<br/>
