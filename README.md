@@ -374,6 +374,28 @@ Note :<br/>
 * These are the instructions used in the given micro-architecture
 
 
+# Final Task:
+* Our final task is to use the VSDSQUADRON Mini board and implement a program on it.
+## LDR based Laser Security System:
+### Overview:
+* This project involves the implementation of LDR based Laser Security System using VSDSquadron Mini.
+* This security system is widely used in perimeter protection, for detecting unauthoorized intrusion (trespassing).
+* A laser emitter emits laser light( Light Amplification by Stimulated Emission of Radiation),
+* LDR(Light Dependent Resistor) receives the laser light.
+* The light will be given a level of voltage.
+* When there is obstruction in light, the value of voltag varies and it sets off the alarm.
+### Software used:
+* Arduino IDE.
+### Components required:
+* VSDSQUADRON Mini
+* Jumper wires
+* Lasser Emitter
+* LDR
+* 10k ohm Resistor
+* Buzzer
+* Breadboard
+### Hardware Conections:
+ ![WhatsApp Image 2024-10-12 at 15 33 50_857bca15](https://github.com/user-attachments/assets/0130823a-0c60-44fa-8974-28e67529f58e)<br/><br/>
 
 
 
