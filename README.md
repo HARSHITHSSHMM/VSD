@@ -420,7 +420,9 @@ Note :<br/>
 https://github.com/user-attachments/assets/191e6b7c-7af2-457d-bf23-f34fefd21720
 
 
-
+# Acknowledgement:
+I would like to thank Mr. Kunal Ghosh and his team for providing me this wonderful internship experience on RISC-V using VSDSQUADRON Mini.I have learnt to do things by learning rather than remembering.I have experienced many obstructions throughtout the internship but I didn't give up until last moment.I can say again that I have learnt many things from this course and learnt to do things without giving up.<br/>
+I would also like to thank the people who had helped me with my doubts and gave me a push forward.
 
 
 
