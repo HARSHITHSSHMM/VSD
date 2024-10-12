@@ -2,7 +2,7 @@
 Instructor: KUNAL GHOSH
 
 <details open>
-<summary># Task-1:</summary>
+# <summary> Task-1:</summary>
 * Our first task is to refer to given videos on C-program based lab and RISCV based lab.<br />
 * We have to execute both the tasks in the terminal.<br/>
 * Compilers we use are GCC and RISC GCC compiler.<br/>
